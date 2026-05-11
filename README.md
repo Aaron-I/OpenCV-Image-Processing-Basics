@@ -89,4 +89,4 @@ Register Number: 212223230002
 
 ## RESULT
 
-Thus, the Python program was successfully implemented using OpenCV to read and display images, adjust brightness and contrast, perform bitwise operations, and split and merge images in RGB and HSV color spaces.
+Thus, the Python program was successfully implemented using OpenCV to read and display images, adjust brightness and contrast, and split and merge images in RGB and HSV color spaces.

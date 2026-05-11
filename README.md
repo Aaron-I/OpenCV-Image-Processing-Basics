@@ -58,8 +58,7 @@ Register Number: 212223230002
   Split into Hue, Saturation, and Value channels.
   Display each channel.
   Merge the channels and convert back to RGB.
-9. Bitwise Operations
-  Apply bitwise operations such as AND, OR, XOR, and NOT to generate transformed images.
+
 ## OUTPUT
 ### Read and display grayscale and color images.
 <img width="945" height="573" alt="image" src="https://github.com/user-attachments/assets/152f87e9-112f-4ec7-8f5a-2994f2f32472" />
